@@ -237,149 +237,38 @@ const emploiMenu = {
           path: "/categories/materiaux",
         },
         { id: 8, title: "Chimie, Laboratoires", path: "/categories/chimie" },
-        {
-          id: 9,
-          title: "Énergie, Hydrocarbure, Mines",
-          path: "/categories/energie",
-        },
       ],
     },
     {
       category: "Commerce & Services",
       items: [
         {
-          id: 10,
+          id: 9,
           title: "Commerce, Distribution, E-commerce, Négoce",
           path: "/categories/commerce",
         },
         {
-          id: 11,
+          id: 10,
           title: "Prestataire de service, Service aux entreprises",
           path: "/categories/prestataire-service",
         },
         {
-          id: 12,
+          id: 11,
           title: "Logistique, Transport",
           path: "/categories/logistique",
         },
         {
-          id: 13,
+          id: 12,
           title: "Marketing, Publicité, Communication",
           path: "/categories/marketing",
         },
         {
-          id: 14,
+          id: 13,
           title: "Hôtellerie, Restauration, Tourisme",
           path: "/categories/hotellerie",
         },
       ],
     },
-    {
-      category: "Finance & Droit",
-      items: [
-        {
-          id: 15,
-          title: "Finance, Banque, Assurance",
-          path: "/categories/finance",
-        },
-        {
-          id: 16,
-          title: "Audit, Conseil, Études, Expertise",
-          path: "/categories/audit",
-        },
-        { id: 17, title: "Droit, Justice", path: "/categories/droit" },
-      ],
-    },
-    {
-      category: "Fonction publique & Organisations",
-      items: [
-        {
-          id: 18,
-          title: "Fonction publique, Gouvernance",
-          path: "/categories/fonction-publique",
-        },
-        {
-          id: 19,
-          title: "ONG, Association, Fondation, Organismes Internationaux",
-          path: "/categories/ong",
-        },
-      ],
-    },
-    {
-      category: "Santé & Social",
-      items: [
-        {
-          id: 20,
-          title: "Santé, Médical, Pharmacie",
-          path: "/categories/sante",
-        },
-        {
-          id: 21,
-          title: "Social, Services à la personne",
-          path: "/categories/social",
-        },
-      ],
-    },
-    {
-      category: "Technologie & Communication",
-      items: [
-        {
-          id: 22,
-          title: "Technologie, Informatique, Numérique",
-          path: "/categories/technologie",
-        },
-        {
-          id: 23,
-          title: "Audiovisuel, Spectacle, Cinéma",
-          path: "/categories/audiovisuel",
-        },
-      ],
-    },
-    {
-      category: "Éducation & Recherche",
-      items: [
-        {
-          id: 24,
-          title: "Enseignement, Formation",
-          path: "/categories/enseignement",
-        },
-      ],
-    },
-    {
-      category: "Sécurité & Défense",
-      items: [
-        { id: 25, title: "Armée, Sécurité, Force", path: "/categories/armee" },
-      ],
-    },
-    {
-      category: "Culture & Loisirs",
-      items: [
-        {
-          id: 26,
-          title: "Art, Design, Culture, Artisanat d'art",
-          path: "/categories/art-design",
-        },
-        {
-          id: 27,
-          title: "Sport et Loisirs",
-          path: "/categories/sport-loisirs",
-        },
-      ],
-    },
-    {
-      category: "Autres",
-      items: [
-        {
-          id: 28,
-          title: "Textile, Habillement, Mode",
-          path: "/categories/textile",
-        },
-        {
-          id: 29,
-          title: "Maintenance, Entretien",
-          path: "/categories/maintenance",
-        },
-      ],
-    },
+    // Ajoute les autres catégories ici...
   ],
 };
